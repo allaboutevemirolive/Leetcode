@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="0001. Two Sum"/>
+	<classpathentry kind="src" path="0002. Add Two Numbers"/>
+	<classpathentry kind="src" path="0003. Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="0004. Median of Two Sorted Arrays"/>
+	<classpathentry kind="src" path="0005. Longest Palindromic Substring"/>
+	<classpathentry kind="src" path="0006. ZigZag Conversion"/>
+	<classpathentry kind="src" path="0007. Reverse Integer"/>
+	<classpathentry kind="src" path="0008. String to Integer (atoi)"/>
+	<classpathentry kind="src" path="0009. Palindrome Number"/>
+	<classpathentry kind="src" path="0010. Regular Expression Matching"/>
+	<classpathentry kind="src" path="0011. Container With Most Water"/>
+	<classpathentry kind="src" path="0012. Integer to Roman"/>
+	<classpathentry kind="src" path="0013. Roman to Integer"/>
+	<classpathentry kind="src" path="0014. Longest Common Prefix"/>
+	<classpathentry kind="src" path="0015. 3Sum"/>
+	<classpathentry kind="src" path="0016. 3Sum Closest"/>
+	<classpathentry kind="src" path="0017. Letter Combinations of a Phone Number"/>
+	<classpathentry kind="src" path="0018. 4Sum"/>
+	<classpathentry kind="src" path="0019. Remove Nth Node From End of List"/>
+	<classpathentry kind="src" path="0020. Valid Parentheses"/>
+	<classpathentry kind="src" path="0021. Merge Two Sorted Lists"/>
+	<classpathentry kind="src" path="0022. Generate Parentheses"/>
+	<classpathentry kind="src" path="0023. Merge k Sorted Lists"/>
+	<classpathentry kind="src" path="0024. Swap Nodes in Pairs"/>
+	<classpathentry kind="src" path="0025. Reverse Nodes in k-Group"/>
+	<classpathentry kind="src" path="0026. Remove Duplicates from Sorted Array"/>
+	<classpathentry kind="src" path="0027. Remove Element"/>
+	<classpathentry kind="src" path="0028. Implement strStr()"/>
+	<classpathentry kind="src" path="0029. Divide Two Integers"/>
+	<classpathentry kind="src" path="0030. Substring with Concatenation of All Words"/>
+	<classpathentry kind="src" path="0031. Next Permutation"/>
+	<classpathentry kind="src" path="0032. Longest Valid Parentheses"/>
+	<classpathentry kind="src" path="0033. Search in Rotated Sorted Array"/>
+	<classpathentry kind="src" path="0034. Find First and Last Position of Element in Sorted Array"/>
+	<classpathentry kind="src" path="0035. Search Insert Position"/>
+	<classpathentry kind="src" path="0036. Valid Sudoku"/>
+	<classpathentry kind="src" path="0037. Sudoku Solver"/>
+	<classpathentry kind="src" path="0038. Count and Say"/>
+	<classpathentry kind="src" path="0039. Combination Sum"/>
+	<classpathentry kind="src" path="0040. Combination Sum II"/>
+	<classpathentry kind="src" path="0041. First Missing Positive"/>
+	<classpathentry kind="src" path="0042. Trapping Rain Water"/>
+	<classpathentry kind="src" path="0043. Multiply Strings"/>
+	<classpathentry kind="src" path="0044. Wildcard Matching"/>
+	<classpathentry kind="src" path="0045. Jump Game II"/>
+	<classpathentry kind="src" path="0046. Permutations"/>
+	<classpathentry kind="src" path="0047. Permutations II"/>
+	<classpathentry kind="src" path="0048. Rotate Image"/>
+	<classpathentry kind="src" path="0049. Group Anagrams"/>
+	<classpathentry kind="src" path="0050. Pow(x, n)"/>
+	<classpathentry kind="src" path="0051. N-Queens"/>
+	<classpathentry kind="src" path="0052. N-Queens II"/>
+	<classpathentry kind="src" path="0056. Merge Intervals"/>
+	<classpathentry kind="src" path="0053. Maximum Subarray"/>
+	<classpathentry kind="src" path="0054. Spiral Matrix"/>
+	<classpathentry kind="src" path="0055. Jump Game"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
