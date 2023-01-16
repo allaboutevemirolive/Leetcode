@@ -1,6 +1,5 @@
 # Leetcode
-Leetcode questions' playground
-
+Playground for Leetcode questions
 
 # Welcome to my GitHub Repository
 
