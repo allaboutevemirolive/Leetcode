@@ -57,5 +57,9 @@
 	<classpathentry kind="src" path="0053. Maximum Subarray"/>
 	<classpathentry kind="src" path="0054. Spiral Matrix"/>
 	<classpathentry kind="src" path="0055. Jump Game"/>
+	<classpathentry kind="src" path="0057. Insert Interval"/>
+	<classpathentry kind="src" path="0058. Length of Last Word"/>
+	<classpathentry kind="src" path="0059. Spiral Matrix II"/>
+	<classpathentry kind="src" path="0060. Permutation Sequence"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

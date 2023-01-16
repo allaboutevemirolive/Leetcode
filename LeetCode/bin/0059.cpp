@@ -1,10 +1,11 @@
 class Solution {
-  public int[][] generateMatrix(int n) {
-    int[][] ans = new int[n][n];
+ public:
+  vector<vector<int>> generateMatrix(int n) {
+    vector<vector<int>> ans(n, vector<int>(n));
     int count = 1;
 
     for (int min = 0; min < n / 2; ++min) {
-      final int max = n - min - 1;
+      const int max = n - min - 1;
       for (int i = min; i < max; ++i)
         ans[min][i] = count++;
       for (int i = min; i < max; ++i)
@@ -15,9 +16,9 @@ class Solution {
         ans[i][min] = count++;
     }
 
-    if (n % 2 == 1)
+    if (n & 1)
       ans[n / 2][n / 2] = count;
 
     return ans;
   }
-}
+};

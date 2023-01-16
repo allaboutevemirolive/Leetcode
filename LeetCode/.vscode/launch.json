@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch A0060",
+            "request": "launch",
+            "mainClass": "A0060",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch A0059",
+            "request": "launch",
+            "mainClass": "A0059",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch A0058",
+            "request": "launch",
+            "mainClass": "A0058",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch A0057",
+            "request": "launch",
+            "mainClass": "A0057",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
             "name": "Launch A0055",
             "request": "launch",
             "mainClass": "A0055",
