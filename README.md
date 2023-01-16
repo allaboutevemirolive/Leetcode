@@ -1,6 +1,6 @@
-# Welcome to my GitHub Repository
+# Welcome to my LeetCode Solutions Repository
 
-Here you will find high-quality coding solutions for various problems and challenges, curated by top coders and online resources, such as ChatGPT. Each solution has been carefully crafted to meet the maximum runtime and memory usage efficiency.
+Here you will find high-quality coding solutions for various LeetCode problems, curated by top coders and online resources, such as ChatGPT. Each solution has been carefully crafted to meet the maximum runtime and memory usage efficiency.
 
 ## Quality Code and Explanation
 
@@ -14,4 +14,4 @@ Performance is a top priority in all of my solutions. I use various techniques t
 
 I welcome any contributions or suggestions to improve the solutions in this repository. If you have any questions or feedback, please don't hesitate to reach out.
 
-Thank you for visiting my GitHub Repository!
+Thank you for visiting my LeetCode Solutions Repository!
