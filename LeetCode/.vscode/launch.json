@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Z4",
+            "request": "launch",
+            "mainClass": "Z4",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Z3",
+            "request": "launch",
+            "mainClass": "Z3",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Z2",
+            "request": "launch",
+            "mainClass": "Z2",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryToInt",
+            "request": "launch",
+            "mainClass": "binaryToInt",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Z1",
+            "request": "launch",
+            "mainClass": "Z1",
+            "projectName": "LeetCode"
+        },
+        {
+            "type": "java",
             "name": "Launch A0050",
             "request": "launch",
             "mainClass": "A0050",
