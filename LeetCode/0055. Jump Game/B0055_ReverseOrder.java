@@ -1,5 +1,9 @@
-public class B0055 {
+public class B0055_ReverseOrder {
     /**
+     * Iterating in REVERSE order
+     * 
+     * HINT : each element in the array REPRESENTS your MAXIMUM JUMP length at that position.
+     * 
      * This method checks if it is possible to reach the last index of an input array by jumping from index to index.
      * @param nums the input array of integers
      * @return true if it is possible to reach the last index, false otherwise
