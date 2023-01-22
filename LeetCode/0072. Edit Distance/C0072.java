@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class B0072 {
     public int minDistance(String word1, String word2) {
         int n = word1.length();
@@ -17,9 +19,9 @@ class B0072 {
         // base case, when one string ends, the min # op is the len of the other string
         // left
         if (i < 0)
-            return j + 1; // return 0, 就是leaf下面的null层
+            return j + 1; // return 0, 
         if (j < 0)
-            return i + 1; // return 0，就是leaf下面的null层
+            return i + 1; // return 0，
 
         // check memo to prevent duplicated calculations
         if (dp[i][j] != -1)
@@ -28,7 +30,7 @@ class B0072 {
         // if current character of both strings are equal
         if (s1.charAt(i) == s2.charAt(j)) {
             dp[i][j] = 0 + fun(s1, s2, i - 1, j - 1, dp);
-            return dp[i - j];
+            return dp[i][j];
         } else {
             // calculate minimum edit distance for insertion, deletion and replacement
             int insert = 1 + fun(s1, s2, i, j - 1, dp);
