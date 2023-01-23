@@ -1,10 +1,11 @@
 class Solution {
-  public void sortColors(int[] nums) {
+ public:
+  void sortColors(vector<int>& nums) {
     int zero = -1;
     int one = -1;
     int two = -1;
 
-    for (final int num : nums)
+    for (const int num : nums)
       if (num == 0) {
         nums[++two] = 2;
         nums[++one] = 1;
@@ -16,4 +17,4 @@ class Solution {
         nums[++two] = 2;
       }
   }
-}
+};

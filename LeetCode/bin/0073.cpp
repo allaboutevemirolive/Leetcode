@@ -1,9 +1,10 @@
 class Solution {
-  public void setZeroes(int[][] matrix) {
-    final int m = matrix.length;
-    final int n = matrix[0].length;
-    boolean shouldFillFirstRow = false;
-    boolean shouldFillFirstCol = false;
+ public:
+  void setZeroes(vector<vector<int>>& matrix) {
+    const int m = matrix.size();
+    const int n = matrix[0].size();
+    bool shouldFillFirstRow = false;
+    bool shouldFillFirstCol = false;
 
     for (int j = 0; j < n; ++j)
       if (matrix[0][j] == 0) {
@@ -41,4 +42,4 @@ class Solution {
       for (int i = 0; i < m; ++i)
         matrix[i][0] = 0;
   }
-}
+};
