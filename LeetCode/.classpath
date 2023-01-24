@@ -66,5 +66,6 @@
 	<classpathentry kind="src" path="0073. Set Matrix Zeroes"/>
 	<classpathentry kind="src" path="0074. Search a 2D Matrix"/>
 	<classpathentry kind="src" path="0075. Sort Colors"/>
+	<classpathentry kind="src" path="0076. Minimum Window Substring"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
