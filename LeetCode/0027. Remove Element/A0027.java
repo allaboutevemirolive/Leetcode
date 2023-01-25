@@ -1,12 +1,8 @@
 public class A0027 {
+    public static void main(String[] args) {
+        int[] nums1 = {3, 2, 2, 3};
+        int nums2 = 3;
 
-    public static int removeElement(int[] nums, int val) {
-        int k = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != val) {
-                nums[k++] = nums[i];
-            }
-        }
-        return k;
+        System.out.println(B0027.removeElement(nums1, nums2));
     }
 }
